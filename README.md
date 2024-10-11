@@ -23,7 +23,7 @@
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-Sou estudante de Engenharia de Software na FIAP, estou no 1°semestre da graduação. <br>
+Sou estudante de Engenharia de Software na FIAP, estou no 2°semestre da graduação. <br>
 São Paulo - SP 
 
 ### Formações
